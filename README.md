@@ -14,6 +14,7 @@ Sau do vao VSCode <br>
 Click vao [Run Python File] <br>
 
 Cong dung: Bat camera cua laptop va hien thi hinh anh tren camera <br>
+
 Output: Khi run thanh cong se hien hinh anh nhu sau <br>
 ![image](https://github.com/I2Relax/Git_OpenCV/assets/113254400/f42170e8-ba82-4ea8-a8b7-e567959530e0) <br>
 An phim "Z" de dung chuong trinh
@@ -21,13 +22,24 @@ An phim "Z" de dung chuong trinh
 File index.py: <br>
 Cach chay: <br>
 Click vao [Run Python File] <br>
+
+Cong dung: Thuc hien cac thao tac co ban voi anh nhu hien thi hinh anh, cat hinh anh, hien thi kich thuoc cua hinh anh, hien thi gia tri mau cua mot diem anh <br>
+
+Output: <br>
+
+Terminal se hien thi kich thuoc cua anh va gia tri mau cua mot diem anh <br>
 ![image](https://github.com/I2Relax/Git_OpenCV/assets/113254400/37c8509d-4f7c-4e2c-8eb2-d4fd128b09c9)
 ![image](https://github.com/I2Relax/Git_OpenCV/assets/113254400/2dcf7274-1eb6-4736-9945-97a48cb61f16)
+<br>
 
+Hinh anh se duoc hien thi tren mot cua so moi voi ten goi "Image" <br>
 ![image](https://github.com/I2Relax/Git_OpenCV/assets/113254400/249dacdf-1cf2-484c-b0d2-a2fa33dbc5a4)
 ![image](https://github.com/I2Relax/Git_OpenCV/assets/113254400/8692ba26-3b75-4c54-9de6-380a04f43bd4)
+<br>
 
+Hinh anh sau khi cat cung se duoc hien thi tren mot cua so moi voi ten goi "The rest" <br>
 ![image](https://github.com/I2Relax/Git_OpenCV/assets/113254400/0c980dfa-b2dd-4883-a4ad-53cc4e4107c8)
 ![image](https://github.com/I2Relax/Git_OpenCV/assets/113254400/be7f37f8-3e96-4fdd-84d5-3b6efcd4c803)
-
+<br>
+An phim bat ky de dung chuong trinh
 
